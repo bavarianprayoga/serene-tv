@@ -28,8 +28,9 @@ public final class Dream extends DreamService {
         setContentView(face);
     }
 
-    @Override public void onDreamingStarted() { super.onDreamingStarted(); face.start(); }
-    @Override public void onDreamingStopped() { face.stop(); super.onDreamingStopped(); }
+    // Android may detach the window before or after onDreamingStopped, so the face can already be gone.
+    @Override public void onDreamingStarted() { super.onDreamingStarted(); if (face != null) face.start(); }
+    @Override public void onDreamingStopped() { if (face != null) face.stop(); super.onDreamingStopped(); }
     @Override public void onDetachedFromWindow() { if (face != null) face.release(); face = null; super.onDetachedFromWindow(); }
 
     static final class Face extends View {
