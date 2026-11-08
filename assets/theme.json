@@ -1,0 +1,362 @@
+{
+ "misty": {
+  "dim": [
+   0.34,
+   0.24,
+   0.14
+  ],
+  "col": 0.28,
+  "utTr": [
+   0.44,
+   0.28
+  ],
+  "utBr": [
+   0.34,
+   0.2
+  ],
+  "veil": 0.2,
+  "ink": "#fff6f1e7",
+  "clockInk": "#fffffbf4",
+  "clockDark": false,
+  "utilInk": "#fffffbf4",
+  "uRest": 0.88,
+  "uPeer": 0.74,
+  "halo": 0.48
+ },
+ "cove": {
+  "dim": [
+   0.34,
+   0.24,
+   0.14
+  ],
+  "col": 0.28,
+  "utTr": [
+   0.3,
+   0.18
+  ],
+  "utBr": [
+   0.34,
+   0.2
+  ],
+  "veil": 0.2,
+  "ink": "#fff6f1e7",
+  "clockInk": "#fff6f1e7",
+  "clockDark": false,
+  "utilInk": "#fffffbf4",
+  "uRest": 0.88,
+  "uPeer": 0.74,
+  "halo": 0.48
+ },
+ "forest": {
+  "dim": [
+   0.26,
+   0.16,
+   0.08
+  ],
+  "col": 0.18,
+  "utTr": [
+   0.34,
+   0.2
+  ],
+  "utBr": [
+   0.2,
+   0.12
+  ],
+  "veil": 0.12,
+  "ink": "#fff6f1e7",
+  "clockInk": "#fffffbf4",
+  "clockDark": false,
+  "utilInk": "#fff6f1e7",
+  "uRest": 0.66,
+  "uPeer": 0.46,
+  "halo": 0.38
+ },
+ "valley": {
+  "dim": [
+   0.26,
+   0.16,
+   0.08
+  ],
+  "col": 0.32,
+  "utTr": [
+   0.34,
+   0.2
+  ],
+  "utBr": [
+   0.2,
+   0.12
+  ],
+  "veil": 0.12,
+  "ink": "#fff6f1e7",
+  "clockInk": "#fffffbf4",
+  "clockDark": false,
+  "utilInk": "#fff6f1e7",
+  "uRest": 0.66,
+  "uPeer": 0.46,
+  "halo": 0.38
+ },
+ "night": {
+  "dim": [
+   0.34,
+   0.24,
+   0.14
+  ],
+  "col": 0.28,
+  "utTr": [
+   0.3,
+   0.18
+  ],
+  "utBr": [
+   0.3,
+   0.18
+  ],
+  "veil": 0.2,
+  "ink": "#fff2fcff",
+  "clockInk": "#fff2fcff",
+  "clockDark": false,
+  "utilInk": "#fff2fcff",
+  "uRest": 0.66,
+  "uPeer": 0.46,
+  "halo": 0.38
+ },
+ "peaks": {
+  "dim": [
+   0.26,
+   0.16,
+   0.08
+  ],
+  "col": 0.28,
+  "utTr": [
+   0.2,
+   0.12
+  ],
+  "utBr": [
+   0.34,
+   0.2
+  ],
+  "veil": 0.12,
+  "ink": "#fff6fbff",
+  "clockInk": "#ff3c5970",
+  "clockDark": true,
+  "utilInk": "#fff6fbff",
+  "uRest": 0.88,
+  "uPeer": 0.74,
+  "halo": 0.48
+ },
+ "bridge": {
+  "dim": [
+   0.26,
+   0.16,
+   0.08
+  ],
+  "col": 0.18,
+  "utTr": [
+   0.2,
+   0.12
+  ],
+  "utBr": [
+   0.34,
+   0.2
+  ],
+  "veil": 0.12,
+  "ink": "#fffff9f3",
+  "clockInk": "#ff655043",
+  "clockDark": true,
+  "utilInk": "#fffff9f3",
+  "uRest": 0.88,
+  "uPeer": 0.74,
+  "halo": 0.48
+ },
+ "ridge": {
+  "dim": [
+   0.26,
+   0.16,
+   0.08
+  ],
+  "col": 0.18,
+  "utTr": [
+   0.34,
+   0.2
+  ],
+  "utBr": [
+   0.2,
+   0.12
+  ],
+  "veil": 0.12,
+  "ink": "#fff6f1e7",
+  "clockInk": "#fffffbf4",
+  "clockDark": false,
+  "utilInk": "#fff6f1e7",
+  "uRest": 0.66,
+  "uPeer": 0.46,
+  "halo": 0.38
+ },
+ "golden": {
+  "dim": [
+   0.26,
+   0.16,
+   0.08
+  ],
+  "col": 0.28,
+  "utTr": [
+   0.34,
+   0.2
+  ],
+  "utBr": [
+   0.34,
+   0.2
+  ],
+  "veil": 0.12,
+  "ink": "#fff6f1e7",
+  "clockInk": "#fffffbf4",
+  "clockDark": false,
+  "utilInk": "#fffffbf4",
+  "uRest": 0.88,
+  "uPeer": 0.74,
+  "halo": 0.48
+ },
+ "summit": {
+  "dim": [
+   0.26,
+   0.16,
+   0.08
+  ],
+  "col": 0.18,
+  "utTr": [
+   0.2,
+   0.12
+  ],
+  "utBr": [
+   0.2,
+   0.12
+  ],
+  "veil": 0.12,
+  "ink": "#fffafafa",
+  "clockInk": "#fffafafa",
+  "clockDark": false,
+  "utilInk": "#fffafafa",
+  "uRest": 0.66,
+  "uPeer": 0.46,
+  "halo": 0.38
+ },
+ "goldcoast": {
+  "dim": [
+   0.34,
+   0.24,
+   0.14
+  ],
+  "col": 0.32,
+  "utTr": [
+   0.44,
+   0.28
+  ],
+  "utBr": [
+   0.34,
+   0.2
+  ],
+  "veil": 0.2,
+  "ink": "#fff2fcff",
+  "clockInk": "#fff2fcff",
+  "clockDark": false,
+  "utilInk": "#fff2fcff",
+  "uRest": 0.88,
+  "uPeer": 0.74,
+  "halo": 0.48
+ },
+ "sydney": {
+  "dim": [
+   0.34,
+   0.24,
+   0.14
+  ],
+  "col": 0.32,
+  "utTr": [
+   0.44,
+   0.28
+  ],
+  "utBr": [
+   0.34,
+   0.2
+  ],
+  "veil": 0.2,
+  "ink": "#fff3fcfb",
+  "clockInk": "#fff3fcfb",
+  "clockDark": false,
+  "utilInk": "#fff3fcfb",
+  "uRest": 0.88,
+  "uPeer": 0.74,
+  "halo": 0.48
+ },
+ "amber": {
+  "dim": [
+   0.34,
+   0.24,
+   0.14
+  ],
+  "col": 0.28,
+  "utTr": [
+   0.44,
+   0.28
+  ],
+  "utBr": [
+   0.3,
+   0.18
+  ],
+  "veil": 0.2,
+  "ink": "#fffff9f3",
+  "clockInk": "#fffff9f3",
+  "clockDark": false,
+  "utilInk": "#fffff9f3",
+  "uRest": 0.66,
+  "uPeer": 0.46,
+  "halo": 0.38
+ },
+ "mint": {
+  "dim": [
+   0.34,
+   0.24,
+   0.14
+  ],
+  "col": 0.32,
+  "utTr": [
+   0.44,
+   0.28
+  ],
+  "utBr": [
+   0.3,
+   0.18
+  ],
+  "veil": 0.2,
+  "ink": "#fff3fcfb",
+  "clockInk": "#fff3fcfb",
+  "clockDark": false,
+  "utilInk": "#fff3fcfb",
+  "uRest": 0.66,
+  "uPeer": 0.46,
+  "halo": 0.38
+ },
+ "alpine": {
+  "dim": [
+   0.34,
+   0.24,
+   0.14
+  ],
+  "col": 0.28,
+  "utTr": [
+   0.44,
+   0.28
+  ],
+  "utBr": [
+   0.3,
+   0.18
+  ],
+  "veil": 0.2,
+  "ink": "#fff2fcfe",
+  "clockInk": "#fff2fcfe",
+  "clockDark": false,
+  "utilInk": "#fff2fcfe",
+  "uRest": 0.66,
+  "uPeer": 0.46,
+  "halo": 0.38
+ }
+}
